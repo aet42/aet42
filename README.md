@@ -11,8 +11,7 @@
 ```
 I'm high school student!
 - I’m interested in ...webdevelopment,computerscience,cybersecurity,and so on
-- I’m currently learning ...Python,C++,Dart,Typescript,,,
-- I’m looking to collaborate on ...
+- I’m currently learning ...Rust,C++,Dart,Typescript,,,
 - How to reach me ... aet42dev@gmail.com
 
 <!---
